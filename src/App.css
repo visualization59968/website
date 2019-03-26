@@ -7,7 +7,12 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+* {
+  background-color: #333333;
+  color: #051072;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
