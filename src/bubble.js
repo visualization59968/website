@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
-import * as d3 from 'd3';
-import './Bubble.css' 
+import d3 from 'd3';
+ 
 
 
-class bubble extends Component {
+class Bubble extends Component {
      render () {
          return (
              <div> bubbles with the leading causes of death</div>
          )
      }
 }
+export default Bubble;
